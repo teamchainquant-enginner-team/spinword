@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-15T00:55:14.762Z",
+  "poolVersion": "SPINWORD_EN_US_DEV_001",
+  "poolStatus": "DEVELOPMENT",
+  "poolSize": 32,
+  "solverVersion": "spinword-frequency-v1",
+  "rounds": 1000000,
+  "solveDistribution": {
+    "guess1": 0.03125,
+    "guess2": 0.875,
+    "guess3": 0.09375,
+    "guess4": 0,
+    "guess5": 0,
+    "guess6": 0,
+    "failure": 0
+  },
+  "modes": {
+    "STANDARD": {
+      "rtp": 4.875,
+      "houseEdge": -3.875,
+      "averageMultiplier": 4.875,
+      "standardDeviation": 0.6959705453537527,
+      "maxReturnOn100kMinor": 70000000
+    },
+    "MAX": {
+      "rtp": 7.78125,
+      "houseEdge": -6.78125,
+      "averageMultiplier": 7.78125,
+      "standardDeviation": 16.573198195806988,
+      "maxReturnOn100kMinor": 1000000000
+    }
+  },
+  "warning": "Development pool results are not approved RTP claims. Publish no RTP until the reviewed 2,048-word pool and strongest solver are tested."
+}
