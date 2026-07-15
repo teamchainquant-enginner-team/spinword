@@ -1,0 +1,3 @@
+mode,rounds,rtp,house_edge,average_multiplier,standard_deviation
+STANDARD,1000000,4.875,-3.875,4.875,0.6959705453537527
+MAX,1000000,7.78125,-6.78125,7.78125,16.573198195806988
